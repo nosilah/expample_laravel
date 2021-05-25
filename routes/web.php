@@ -7,6 +7,8 @@ use App\Http\Controllers\Blog\PostController;
 use App\Http\Controllers\RestTestController;
 use Illuminate\Support\Facades\Route;
 
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
